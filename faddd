@@ -1,0 +1,48 @@
+[33mcommit 1028bf02309e77c3ba2f64d3dedd1114dfe8696c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mupdate_dune[m[33m, [m[1;32mmain[m[33m)[m
+Author: stormcrusherr <ttteric6@gmail.com>
+Date:   Fri Nov 6 17:45:17 2026 -0600
+
+    G: updated titles
+
+[33mcommit ddc634766a41c7bc49ab46cf9533711ac03d5507[m
+Merge: 953814a 59c3cf9
+Author: stormcrusherr <ttteric6@gmail.com>
+Date:   Fri Nov 6 17:32:27 2026 -0600
+
+    F: Merge branch 'add_classics'
+
+[33mcommit 953814a898b1e11fecf2c304d5c8a0333ae90ca0[m
+Author: stormcrusherr <ttteric6@gmail.com>
+Date:   Fri Nov 6 17:27:37 2026 -0600
+
+    E:add contents
+
+[33mcommit 59c3cf97db1ab506946cfc6bdd64334d5fa9c8c4[m
+Author: stormcrusherr <ttteric6@gmail.com>
+Date:   Fri Nov 6 16:19:54 2026 -0600
+
+    D: classics
+
+[33mcommit 0f81a9b0e155154f8daf9c7a0a15550e406d0b1d[m
+Author: stormcrusherr <ttteric6@gmail.com>
+Date:   Sun Nov 1 01:38:27 2026 -0500
+
+    C: fictional quotes
+
+[33mcommit e0ffa679f4f2421a151519ad4da3af7b03bd8c0d[m
+Author: stormcrusherr <ttteric6@gmail.com>
+Date:   Sat Oct 31 19:22:28 2026 -0500
+
+    B: add title
+
+[33mcommit d211bd88975388e019dd93df1dea6320dcfe3383[m
+Author: stormcrusherr <ttteric6@gmail.com>
+Date:   Sat Oct 31 19:12:19 2026 -0500
+
+    B: add titls
+
+[33mcommit 70826bd212c2d589ea1b4ce501056a57711211b1[m
+Author: stormcrusherr <ttteric6@gmail.com>
+Date:   Fri Oct 30 17:35:31 2026 -0500
+
+    A: add contents.md
